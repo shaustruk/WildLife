@@ -405,7 +405,7 @@ h6 {
   background-color: #8F5613;
  }
  .footer {
-   background: #02160b url("../assets/images/footer.png") center/cover no-repeat;
+   background: #02160b url(".images/footer.png") center/cover no-repeat;
    border: 1px solid #02160b;
    height: 360px;
    
